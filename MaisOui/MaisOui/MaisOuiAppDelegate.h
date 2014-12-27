@@ -2,8 +2,8 @@
 //  MaisOuiAppDelegate.h
 //  MaisOui
 //
-//  Created by Robert Irwin on 1/28/14.
-//  Copyright (c) 2014 Robert Irwin. All rights reserved.
+//  Created by Rupan Talwar on 9/11/14.
+//  Copyright (c) 2014 Rupan Talwar. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
